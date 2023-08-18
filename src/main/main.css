@@ -1,0 +1,18 @@
+.main {
+    width: 100%;
+    max-width: 390px;
+    height: 100%;
+    background-color: #123123;
+    background-image: url('../images/background.png');
+    background-size: cover;
+}
+
+.title {
+    position: absolute;
+    top: 20%;
+}
+
+.title > p {
+    font-size: 34px;
+    margin: 0px;
+}
