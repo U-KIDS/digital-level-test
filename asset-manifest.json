@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/digital-level-test/static/css/main.2e0e9575.css",
+    "main.js": "/digital-level-test/static/js/main.a4dea50f.js",
+    "static/media/result.png": "/digital-level-test/static/media/result.28416bcac3e7f08c82a6.png",
+    "static/media/main.jpeg": "/digital-level-test/static/media/main.212d3aeeca2d8334e3b4.jpeg",
+    "static/media/loading.png": "/digital-level-test/static/media/loading.537d17a2b3630f3558e6.png",
+    "static/media/question.jpeg": "/digital-level-test/static/media/question.1b4a13ab5ccc008b73d4.jpeg",
+    "static/media/StartButton.png": "/digital-level-test/static/media/StartButton.e9a26b87f498acd138d7.png",
+    "static/media/testback.jpg": "/digital-level-test/static/media/testback.f7e453d6f0ab82e7d8b6.jpg",
+    "index.html": "/digital-level-test/index.html",
+    "main.2e0e9575.css.map": "/digital-level-test/static/css/main.2e0e9575.css.map",
+    "main.a4dea50f.js.map": "/digital-level-test/static/js/main.a4dea50f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e0e9575.css",
+    "static/js/main.a4dea50f.js"
+  ]
+}
