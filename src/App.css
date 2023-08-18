@@ -1,7 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600&display=swap');
+@font-face {
+  font-family: 'NeoDunggeunmoPro-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/NeoDunggeunmoPro-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
 
 * {
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'NeoDunggeunmoPro-Regular';
 }
 
 @media screen {
